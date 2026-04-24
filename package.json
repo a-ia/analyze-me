@@ -1,0 +1,25 @@
+{
+  "name": "analyze-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-ia/analyze-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/a-ia/analyze-me/issues"
+  },
+  "homepage": "https://github.com/a-ia/analyze-me#readme",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.91.0",
+    "dotenv": "^17.4.2"
+  }
+}
